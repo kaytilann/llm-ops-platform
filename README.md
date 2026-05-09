@@ -2,7 +2,7 @@
 
 A high-fidelity AI Product Management portfolio project showing how an enterprise operations team could use AI to predict fulfillment risk, explain root causes, simulate business tradeoffs, and coordinate human-in-the-loop decisions.
 
-![Mockup placeholder](figma-export/screen-map.md)
+llm-ops-platform.vercel.app
 
 ## Why this project exists
 
