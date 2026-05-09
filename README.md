@@ -4,13 +4,11 @@ A high-fidelity AI Product Management portfolio project showing how an enterpris
 
 llm-ops-platform.vercel.app
 
-## Why this project exists
-
-Most AI PM portfolios are generic chatbots. This project is designed to show senior product judgment: applied AI, operational complexity, measurable business impact, human-in-the-loop design, and enterprise adoption thinking.
+This project encompasses applied AI, operational complexity, measurable business impact, human-in-the-loop design, and enterprise adoption thinking.
 
 ## Product thesis
 
-Operations teams do not need another dashboard. They need an AI decision layer that connects operational signals across OMS, WMS, ERP, demand planning, carrier data, and finance systems, then turns those signals into prioritized actions.
+Operations teams need an AI decision layer that connects operational signals across OMS, WMS, ERP, demand planning, carrier data, and finance systems, then turns those signals into prioritized actions.
 
 ## Core user problem
 
