@@ -1,0 +1,26 @@
+{
+  "monthly_ai_spend": 184000,
+  "p95_latency_seconds": 2.4,
+  "quality_score": 91.7,
+  "policy_violations_7d": 14,
+  "applications": [
+    {
+      "name": "Support Copilot",
+      "requests": 142000,
+      "cache_hit_rate": 0.68,
+      "monthly_cost": 48200
+    },
+    {
+      "name": "Sales Assistant",
+      "requests": 87000,
+      "cache_hit_rate": 0.41,
+      "monthly_cost": 39100
+    },
+    {
+      "name": "Legal Drafting",
+      "requests": 31000,
+      "cache_hit_rate": 0.22,
+      "monthly_cost": 34400
+    }
+  ]
+}
